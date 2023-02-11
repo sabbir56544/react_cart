@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "First Product",
+        "price": "100",
+        "description": "This is the first product"
+    },
+    {
+        "id": "2",
+        "name": "Second Product",
+        "price": "200",
+        "description": "This is the second product"
+    },
+    {
+        "id": "3",
+        "name": "Third Product",
+        "price": "300",
+        "description": "This is the third product"
+    },
+    {
+        "id": "4",
+        "name": "Fourth Product",
+        "price": "400",
+        "description": "This is the fourth product"
+    },
+    {
+        "id": "5",
+        "name": "Fifth Product",
+        "price": "500",
+        "description": "This is the fifth product"
+    }
+]
